@@ -1,7 +1,6 @@
 # Memory Forensics Investigation Project  
-**SEC815 – Incident Response and Forensics**
 
-This repository contains a complete end-to-end **Memory Forensics investigation** conducted as part of the SEC815 course.  
+This repository contains a complete end-to-end **Memory Forensics investigation**.  
 The project simulates a real-world incident involving credential harvesting using Mimikatz, followed by forensic analysis using Volatility.
 
 > 📌 **Start here:**  
