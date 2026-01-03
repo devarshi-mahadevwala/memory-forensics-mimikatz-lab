@@ -38,9 +38,11 @@ These dumps were analyzed and compared to identify malicious activity and system
 
 ---
 
-## 🗂 Repository Structure
+## 📁 Repository Structure
 
+```text
 project/
+│
 ├── Phase 1 setup/
 │   ├── screenshots/
 │   ├── Memory Forensics Project Phase 1.docx
@@ -61,7 +63,7 @@ project/
 ├── Memory Forensics Project- Final Report.pdf
 ├── Memory Forensics Project- Final presentation.pptx
 └── README.md
-
+```
 ---
 
 ## 🔧 Phase 1 – Environment Setup
