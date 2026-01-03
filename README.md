@@ -41,28 +41,26 @@ These dumps were analyzed and compared to identify malicious activity and system
 ## 🗂 Repository Structure
 
 project/
-│
 ├── Phase 1 setup/
-│ ├── screenshots/
-│ ├── Memory Forensics Project Phase 1.docx
-│ └── Memory Forensics Project Phase 1.pptx
+│   ├── screenshots/
+│   ├── Memory Forensics Project Phase 1.docx
+│   └── Memory Forensics Project Phase 1.pptx
 │
 ├── phase 2 attack/
-│ ├── screenshots/
-│ └── Memory Forensics Project Phase 2.pptx
+│   ├── screenshots/
+│   └── Memory Forensics Project Phase 2.pptx
 │
 ├── phase 3 volatility/
-│ ├── screenshots/
-│ └── Memory Forensics Project Phase 3.pptx
+│   ├── screenshots/
+│   └── Memory Forensics Project Phase 3.pptx
 │
 ├── Project detail and workflow/
-│ └── Memory Forensics Project Week 1.pptx
+│   └── Memory Forensics Project Week 1.pptx
 │
 ├── Memory Forensics Project- Final Report.docx
 ├── Memory Forensics Project- Final Report.pdf
 ├── Memory Forensics Project- Final presentation.pptx
 └── README.md
-
 
 ---
 
